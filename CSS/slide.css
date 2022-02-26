@@ -241,6 +241,7 @@ a {
   color: var(--white-color);
   position: relative;
   margin-bottom: 150px;
+  cursor: pointer;
 }
 .left-side .header .logo::after {
   content: "";
